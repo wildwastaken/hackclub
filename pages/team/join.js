@@ -65,8 +65,8 @@ export default function JoinTeam(){
         <Text fontSize="xl">
           Contact Allen Liu '23 or Mark Platonov '23.
         </Text>
-        <Link href={socials.discord} style={{ textDecoration: "none" }} isExternal>
-          <Button colorScheme="blue" mt={4}>Join the Discord</Button>
+        <Link href={socials.gc} style={{ textDecoration: "none" }} isExternal>
+          <Button colorScheme="blue" mt={4}>Join the Google Classroom</Button>
         </Link>
       </Container>
   </>
