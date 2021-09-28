@@ -30,8 +30,8 @@ export default function Home() {
       <Head>
         <title>Home{config.titleSuffix}</title>
         <meta property="og:title" content={`Home${config.titleSuffix}`} key="ogtitle"/>
-        <meta name="description" content="A creative coding club at Amity High School where you can learn, share, and hack."/>
-        <meta property="og:description" content="A creative coding club at Amity High School where you can learn, share, and hack." key="ogdesc"/>
+        <meta name="description" content="An innovative coding club at Amity High School where you can learn, share, and hack."/>
+        <meta property="og:description" content="An innovative coding club at Amity High School where you can learn, share, and hack." key="ogdesc"/>
       </Head>
 
       <Box bg={"brand.red"}>
@@ -40,7 +40,7 @@ export default function Home() {
             Amity Hack Club
           </Heading>
           <Heading as="h2" size="lg" my={2} color="white" fontWeight="normal">
-            A creative coding club where you can learn, share, and hack.
+            An innovative coding club where you can learn, share, and hack.
           </Heading>
 
           <SimpleGrid p={4} mt={8}
