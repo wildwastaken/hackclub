@@ -85,7 +85,7 @@ export default function Home() {
       <Container maxW="container.xl" p={12}>
         <Heading as="h2" size="md" color="brand.muted">WHO WE ARE</Heading>
         <Heading as="h1" size="2xl" my={2}>
-          We are a club for <Text as="span" color="brand.orange" style={{ whiteSpace: "pre" }}>creative coding</Text>.
+          We are a club for <Text as="span" color="brand.orange" style={{ whiteSpace: "pre" }}>innovative coding</Text>.
         </Heading>
         <Text fontSize="xl" maxW="container.md">
           Each week, we gather to do coding workshops, create awesome things, and share our creations.
