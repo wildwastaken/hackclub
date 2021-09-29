@@ -77,7 +77,7 @@ export default function FooterComponent() {
             <Heading mb={1} size="md" color={useColorModeValue("gray.500", "gray.400")}>
               Contact us directly @
             </Heading>
-            <Text>platonov23@amityschools.org or liual23@amityschools.org</Text>
+            <Text>platonovma23@amityschools.org or liual23@amityschools.org</Text>
           </Stack>
         </Stack>
       </Stack>
