@@ -96,7 +96,7 @@ export default function Home() {
       <Container maxW="container.xl" px={12} py={6}>
         <Flex direction={{ base: "column", md: "row" }}>
           <Image 
-            src="/images/amity-hall.jpeg"
+            src="/images/Amity-Shield-Single.png"
             fallbackSrc="https://via.placeholder.com/300"
             boxSize={{ base: "100%", md: "40%" }}
             borderRadius={24}
