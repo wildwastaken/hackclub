@@ -51,7 +51,7 @@ export default function Home() {
             <Box align="left" color="white">
               <Heading size="md">When &amp; where?</Heading>
               <Text>
-                We meet every <b>Friday after school</b> at <b>Mr. Serapiglia's Room (Room 285 in the Math Wing)</b>.
+                We meet every <b>Tuesday after school</b> at <b>Mr. Serapiglia's Room (Room 285 in the Math Wing)</b>.
               </Text>
               <Text fontStyle="italic">
                 Join our Google Classroom to get weekly updates on meetings.
