@@ -45,7 +45,7 @@ export default function FooterComponent() {
             </Heading>
             <Link href="https://hackclub.com/conduct" isExternal>Code of Conduct</Link>
             <Link href="https://workshops.hackclub.com/preface" isExternal>Preface</Link>
-            <Link href="https://hackclub.com/maintenance" isExternal>Workshops</Link>
+            <Link href="/maintenance" isExternal>Workshops</Link>
             <NextLink href="/benefits" passHref><Link>Benefits</Link></NextLink>
             <Link href="https://hackathons.hackclub.com" isExternal>Hackathons</Link>
             <Link href="https://events.hackclub.com" isExternal>Events</Link>
