@@ -20,8 +20,8 @@ export default function Custom404() {
 
       <Flex minH="90vh" align="center" justify="center">
         <Box align="center">
-          <Heading as="h1" size="2xl" color="brand.red">Woops! 🚧</Heading>
-          <Text fontSize="lg">Sorry, this page is still under construction. Please check back soon for an update! :(</Text>
+          <Heading as="h1" size="2xl" color="brand.red">Whoops! 🚧</Heading>
+          <Text fontSize="lg">Sorry, this page is still under construction. Please check back soon for an update!</Text>
           <Link href="/" style={{ textDecoration: "none" }}>
             <Button colorScheme="red" mt={4}>Go Home</Button>
           </Link>
