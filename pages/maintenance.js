@@ -22,7 +22,7 @@ export default function Custom404() {
         <Box align="center">
           <Heading as="h1" size="2xl" color="brand.red">Hack Club Workshops</Heading>
           <Text fontSize="lg">Welcome to today's workshop! Click the link below.</Text>
-          <Link href="https://workshops.hackclub.com/personal_website/" style={{ textDecoration: "none" }}>
+          <Link href="https://workshops.hackclub.com/read_the_internet/" style={{ textDecoration: "none" }}>
             <Button colorScheme="red" mt={4}>Workshop</Button>
           </Link>
         </Box>
