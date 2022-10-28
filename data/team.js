@@ -4,13 +4,13 @@ export default {
       name: "Mark Platonov",
       description: "President & Founder",
       image: "/images/team/mark.jpeg",
-      link: "mailto:platonovma23@amityschools.org"
+      link: "https://markplatonov.com"
     },
     {
       name: "Allen Liu",
       description: "President & Founder",
       image: "/images/team/allen.png",
-      link: "mailto:liual23@amityschools.org"
+      link: "https://allenliu.dev"
     },
     {
       name: "Charles Chen",
