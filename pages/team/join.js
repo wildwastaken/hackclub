@@ -34,13 +34,13 @@ export default function JoinTeam(){
 				Join our Team	
 			</Heading>
 			<Heading as="h2" size="md" my={2} fontWeight="normal">
-				Come help us plan our club for the 2021-2022 school year.
+				Come help us plan our club for the 2022-2023 school year.
 			</Heading>
     </Container>
 
 		<Container maxW="container.lg">
 			<Heading textAlign = "center" as="h2" size="lg" my={2} fontWeight="normal">
-				We're no longer looking for officers. Come back next year for more opportunities!
+				We're no longer looking for specific officers. Come back next year for more opportunities!
 				{/* We're looking for officers with the positions listed below. */}
 			</Heading>
 			<SimpleGrid columns={{ base: 1, md: 2 }} spacing={8} py={8} px={4}>
