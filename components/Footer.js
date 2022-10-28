@@ -55,24 +55,6 @@ export default function FooterComponent() {
         {/* BRAND, CONNECTIONS, & CONTACT */}
         <Stack direction="column" spacing={3} w="auto">
           <Image h={12} w={32} src="/branding/flag-standalone.svg"/>
-          <SimpleGrid w={36} columns={{ base: 8, md: 4 }} py={2} spacingX={12} spacingY={2}>
-            <Link href={socials.discord} p={1} isExternal>
-              <FontAwesomeIcon icon={faDiscord} size="lg"/>
-            </Link>
-            <Link href={socials.github} isExternal>
-              <Icon glyph="github" size={32} />
-            </Link>
-            <Link href={socials.youtube} isExternal>
-              <Icon glyph="youtube" size={32} />
-            </Link>
-            <Link href={socials.instagram} isExternal>
-              <Icon glyph="instagram" size={32} />
-            </Link>
-            <Link href={"mailto:"+socials.email}>
-              <Icon glyph="email" size={32} />
-            </Link>
-          </SimpleGrid>
-
           <Stack direction="column" spacing={1}>
             <Heading mb={1} size="md" color={useColorModeValue("gray.500", "gray.400")}>
               Contact us directly @
